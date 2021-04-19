@@ -1,10 +1,10 @@
-package Application;
+package application;
 
 import Boardgame.Board;
 import Boardgame.Position;
 import chess.ChessMatch;
 
-public class Programa {
+public class Program {
 
 	public static void main(String[] args) {
 		
